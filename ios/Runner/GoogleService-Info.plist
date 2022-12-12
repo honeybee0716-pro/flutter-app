@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>286050939937-r0lorqhu50umu74gpvtaumtp59ru1i4r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.286050939937-r0lorqhu50umu74gpvtaumtp59ru1i4r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC4ep-we1wExf9b5pHmO78qekl1Je2QoXs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286050939937</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bundle.mynuu</string>
+	<key>PROJECT_ID</key>
+	<string>fullaccezz-2756a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fullaccezz-2756a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286050939937:ios:a1ccaf85617ec0eb4c9f60</string>
+	<key>DATABASE_URL</key>
+	<string>https://fullaccezz-2756a-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
